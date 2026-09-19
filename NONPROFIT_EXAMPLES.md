@@ -37,20 +37,36 @@ Every nonprofit buildout in these examples promises its volunteers:
 
 ## Sophie's Bakeries
 
-**Mission:** Fresh bread for neighbors who can't always afford it, given free through food
-banks and pantries. It's a natural partner for the
+**Mission:** A free meal for anyone who walks in: no questions, no forms, no proof of need.
+Robot chefs bake fresh bread on the premises, and robot servers bring it to the table. A
+location could be a flagship bakery or a storefront in an ordinary shopping district.
+Fresh bread also goes out to local food banks, a natural partner for the
 [food insecurity work in `philanthropisch`](https://github.com/bcroner/philanthropisch).
+
+**What the robots do, and what people do.** The robots handle the baking and serving.
+People do what robots can't: welcoming guests, keeping the room safe and comfortable, and
+getting bread to the food banks.
 
 | Volunteer opportunity | Time | What "done" looks like | Who can join |
 |---|---|---|---|
-| Morning bake shift | 3 hours | The shift's batch is baked, cooled, labeled with the date and allergens, and logged | Anyone with a **food handler card**, which the bakery helps you get |
-| Pantry delivery run | 2 hours | Bread signed for at each stop on the route sheet | Valid driver's license and insurance |
-| Recipe testing | Flexible | A recipe works at batch size, with ingredient cost per loaf recorded | Anyone |
-| Allergen and label checks | 1 hour | Every label matches the recipe sheet | Anyone, after a 20-minute training |
-| Donation drive for flour and supplies | An event | Donations logged and thanked | Anyone |
+| Host: greet and seat guests | 3 hours | Everyone who walked in was welcomed and found a seat, no questions asked | Anyone, after a 30-minute orientation that includes how to pause the robots |
+| Dining room helper | 3 hours | Tables cleared and wiped, spills handled, guests who need a hand helped | Anyone, after orientation |
+| Food bank delivery run | 2 hours | Bread signed for at each food bank on the route sheet | Valid driver's license and insurance |
+| Accessibility check | 1 hour | A written report on anything hard to reach or use, including robot paths | Anyone |
+| Recipe testing with the chefs' operators | Flexible | A recipe works at the robots' batch size, with ingredient cost per loaf recorded | Anyone, alongside a trained operator |
 
-**Gated for safety:** all food for the public is made in a **licensed kitchen** under local
-health-department rules. Nobody bakes for distribution at home.
+**Paid, not volunteer:** robot technicians and the kitchen operators who program and
+supervise the robots. Those roles keep the kitchen safe, and they're real jobs, so they're
+posted as paid work.
+
+**Gated for safety:**
+- The kitchen is a **licensed commercial kitchen** under local health-department rules,
+  whether the baking is done by robots or people. The robots and their food-contact parts
+  must meet food-equipment sanitation standards.
+- Robots working near guests need **safety guarding, emergency stops, and clear paths**, so
+  every volunteer learns how to stop them before their first shift.
+- Food bank deliveries follow the food bank's own handling rules for temperature and
+  labeling, including allergens.
 
 ---
 
