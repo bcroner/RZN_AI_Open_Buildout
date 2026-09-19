@@ -72,39 +72,71 @@ posted as paid work.
 
 ## Emma's Threads
 
-**Mission:** Clothes that fit and last, free for people who need them: a clothing
-closet, free repairs, and sewing classes.
+**Mission:** Clothes that fit and last, free for anyone who needs them. There's a
+clothing closet anyone can walk into, a repair clinic that mends what people already
+own, and sewing classes so people can keep their own clothes going. Nobody is asked why
+they need anything.
+
+**What volunteers do, and what staff do.** Volunteers bring the everyday care: sorting,
+mending, fitting, teaching. Staff keep the operation steady and accountable, especially
+around children and donations.
 
 | Volunteer opportunity | Time | What "done" looks like | Who can join |
 |---|---|---|---|
-| Sort and size donations | 2 hours | Items sorted by size and condition; anything stained or broken set aside | Anyone |
-| Repair clinic | 3 hours | Items mended and logged back into stock | Anyone who sews, from hemming up |
+| Closet host and fittings | 3 hours | Visitors helped to find what fits, with dignity: no questions about why they need it | Anyone, after orientation |
+| Sort and size donations | 2 hours | Items sorted by size and condition; anything stained, broken, or recalled set aside | Anyone, after a 20-minute training |
+| Repair clinic | 3 hours | Items mended and logged back into stock, or returned to their owner | Anyone who sews, from hemming up |
 | Teach a beginner sewing class | 90 minutes | Every student finishes the class project | Experienced sewists |
-| Closet hosting and fittings | 3 hours | Visitors helped to find what fits, with dignity: no questions about why they need it | Anyone, after orientation |
 | Pattern and tutorial writing | Flexible | A beginner can follow it without help | Anyone |
 
-**Gated for safety:** anyone working with children needs a **background check**, which the
-nonprofit pays for. Children's clothing is checked against **product recall lists** and
-safety rules, such as those on drawstrings, before it's given out.
+**Paid, not volunteer:** the closet manager, who runs intake, stock, and the volunteer
+schedule, and a lead tailor who trains repair volunteers and handles complex alterations.
+They're ongoing jobs that the whole operation depends on, so they're posted as paid work.
+
+**Gated for safety:**
+- Anyone working with **children**, including children's fittings and youth sewing
+  classes, needs a **background check**, paid for by the nonprofit, and never works alone
+  with a child.
+- **Children's clothing** is checked against **product recall lists** and safety rules,
+  such as those on drawstrings, before it's given out.
+- **Donations** that can't be cleaned or safely reused are recycled, not handed out.
+- **Sewing equipment:** machines and sharp tools are used only after a short safety
+  briefing, and irons and steamers only in the marked area.
 
 ---
 
 ## Brian's Equine Welfare
 
-**Mission:** Rescue, rehabilitate and rehome horses, and give lifelong sanctuary to those
-who can't be rehomed.
+**Mission:** Rescue horses that are neglected, abandoned, or at risk. Rehabilitate them,
+find each one a good home, and give lifelong sanctuary to those who can't be rehomed.
+
+**What volunteers do, and what staff do.** Volunteers do the daily work that keeps the
+horses cared for and the place running: chores, grooming, repairs, events. Anything
+touching a horse's health, training, or transport sits with professionals.
 
 | Volunteer opportunity | Time | What "done" looks like | Who can join |
 |---|---|---|---|
 | Barn chores | 3 hours | Stalls cleaned, water and hay checked, feed log signed | Anyone who has completed **safety orientation** |
-| Grooming and handling | 2 hours | Horses groomed, with notes on anything unusual reported to staff | After orientation plus a handling assessment |
+| Grooming and handling | 2 hours | Horses groomed, with anything unusual reported to staff | After orientation plus a handling assessment |
 | Fence and facility repair | A workday | Repairs done to the facility checklist and inspected | Anyone; power tools only for those checked out on them |
 | Fundraising and events | Varies | Event run and donations logged | Anyone |
-| Adoption follow-up visits | 2 hours | Visit report completed | Trained volunteers |
+| Adoption follow-up visits | 2 hours | Visit report completed, and any concern passed to staff the same day | Trained volunteers, in pairs |
+
+**Paid, not volunteer:**
+- The **barn manager**, who runs daily care, feeding plans, and the volunteer schedule.
+- The **veterinarian and farrier**, who are licensed professionals and paid for their
+  services.
+- The **trainer**, who works with horses that have behavior problems before adoption.
+
+The horses' welfare depends on these roles every day, so they're paid work, not
+volunteer work.
 
 **Gated for safety:**
-- **Veterinary care is for licensed veterinarians only.**
-- Hauling horses needs trained drivers with suitable trailers.
+- **Veterinary care is for licensed veterinarians only,** including medication and wound
+  care beyond basic first aid.
+- **Horses with a history of injuring people** are handled by staff and the trainer only.
+- **Hauling horses** needs trained drivers with suitable trailers, and follows the
+  health-paperwork rules for moving animals.
 - Horses are large, and even calm ones can injure people. So orientation is required,
   closed-toe boots are mandatory, and minors volunteer only with a guardian present.
 
@@ -116,7 +148,8 @@ who can't be rehomed.
   contributors after four quarters sends its held share to `philanthropisch`, which could
   in turn support nonprofits like these.
 - **Paid roles still exist.** A nonprofit can post paid work through Open Buildouts too,
-  such as a head baker or a barn manager, under the regular Contributor Bill of Rights.
+  such as a robot technician, a closet manager, or a barn manager, under the regular
+  Contributor Bill of Rights.
 - **Selling goods needs care.** If a nonprofit sells anything, for example bread sold at a
   market to fund the free bread, volunteer rules can change. The labor rules for
   volunteers at a nonprofit's money-making activities are narrower. Check with a lawyer
