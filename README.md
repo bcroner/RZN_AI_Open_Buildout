@@ -10,6 +10,9 @@
 > **Nonprofit examples:** [Sophie's Bakeries, Emma's Threads and Brian's Equine Welfare](NONPROFIT_EXAMPLES.md),
 > showing how volunteering works under a Volunteer Bill of Rights.
 >
+> **Adults-only example:** [a game from Disturbing Software](ADULT_GAME_EXAMPLE.md), showing how
+> the split and the Bill of Rights apply to an adults-only product.
+>
 > © 2026 RZN AI, LLC. Licensed under [Creative Commons Attribution 4.0](LICENSE): copy
 > it, adapt it, and use it for your own brand, with credit to RZN AI.
 
