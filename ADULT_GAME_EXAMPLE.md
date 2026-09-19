@@ -25,6 +25,28 @@ run on the RZN AI AGI model, $10,000 in Net Receipts in a quarter from that game
 If a relied-on patent application ends without a patent, the split becomes 55 / 35 / 10 for
 work relying only on it (§8).
 
+### Pricing
+
+Disturbing Software's minimum prices:
+
+| Product | Minimum price |
+|---|---|
+| MMO subscription, such as *Tey Voy A Humpar* | **$4.99 a month** |
+| Standalone game | **$14.99** |
+
+**What a month of subscribers produces.** Say 1,000 players subscribe at $4.99, and
+payment processing costs an assumed $0.50 per subscription. Adult-merchant processing
+often costs more than ordinary processing, so check real rates. Net Receipts are
+$4,490, split as:
+
+| Share | Per month |
+|---|---|
+| Disturbing Software | $2,245 |
+| RZN AI | $1,796 |
+| People's Share | $449 |
+
+The split applies only to receipts from parts of the game built on RZN AI technology (§3).
+
 ---
 
 ## Where people fit in
