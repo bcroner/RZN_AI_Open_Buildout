@@ -7,6 +7,9 @@
 > Designed for [Open Buildouts](https://github.com/bcroner/Open-Buildouts), an opt-in app
 > that enforces the Contributor Bill of Rights in §6.
 >
+> **Nonprofit examples:** [Sophie's Bakeries, Emma's Threads and Brian's Equine Welfare](NONPROFIT_EXAMPLES.md),
+> showing how volunteering works under a Volunteer Bill of Rights.
+>
 > © 2026 RZN AI, LLC. Licensed under [Creative Commons Attribution 4.0](LICENSE): copy
 > it, adapt it, and use it for your own brand, with credit to RZN AI.
 
