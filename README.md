@@ -4,8 +4,8 @@
 > and terms to their own preferences. It is not legal advice; a lawyer should turn it
 > into a binding agreement before any money changes hands.
 >
-> Designed for Open Buildouts, an opt-in app that enforces the Contributor Bill of
-> Rights in §6. The app isn't public yet.
+> Designed for [Open Buildouts](https://github.com/bcroner/Open-Buildouts), an opt-in app
+> that enforces the Contributor Bill of Rights in §6.
 >
 > © 2026 RZN AI, LLC. Licensed under [Creative Commons Attribution 4.0](LICENSE): copy
 > it, adapt it, and use it for your own brand, with credit to RZN AI.
